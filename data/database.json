@@ -11,7 +11,7 @@
       "phoneNumber": "625-316-9882",
       "avatar": "https://cypress-realworld-app-svgs.s3.amazonaws.com/t45AiwidW.svg",
       "defaultPrivacyLevel": "public",
-      "balance": 9950000,
+      "balance": 9889500,
       "createdAt": "2019-08-27T23:47:05.637Z",
       "modifiedAt": "2020-05-21T11:02:22.857Z"
     },
@@ -41,7 +41,7 @@
       "phoneNumber": "072-208-4283",
       "avatar": "https://cypress-realworld-app-svgs.s3.amazonaws.com/bDjUb4ir5O.svg",
       "defaultPrivacyLevel": "private",
-      "balance": 164867,
+      "balance": 165367,
       "createdAt": "2019-09-15T04:44:05.536Z",
       "modifiedAt": "2020-05-21T18:25:10.341Z"
     },
@@ -71,7 +71,7 @@
       "phoneNumber": "277-189-3402",
       "avatar": "https://cypress-realworld-app-svgs.s3.amazonaws.com/tsHF6_D5oQ.svg",
       "defaultPrivacyLevel": "contacts",
-      "balance": 75369,
+      "balance": 135369,
       "createdAt": "2020-02-11T21:26:46.510Z",
       "modifiedAt": "2020-05-21T15:15:33.944Z"
     }
@@ -9855,6 +9855,162 @@
       "requestResolvedAt": "",
       "createdAt": "2019-06-27T22:24:04.794Z",
       "modifiedAt": "2020-05-21T04:58:44.494Z"
+    },
+    {
+      "id": "kn0tCI88w",
+      "uuid": "813b18f8-ad07-4766-bc1f-a9ef0e9c13f6",
+      "amount": 5000,
+      "description": "Food",
+      "receiverId": "tsHF6_D5oQ",
+      "senderId": "t45AiwidW",
+      "privacyLevel": "public",
+      "status": "complete",
+      "createdAt": "2021-09-07T10:12:44.795Z",
+      "modifiedAt": "2021-09-07T10:12:44.795Z"
+    },
+    {
+      "id": "26jUEzr8T",
+      "uuid": "bce1a1fe-1ee2-4782-857a-d0d25a5ef162",
+      "amount": 5000,
+      "description": "Food",
+      "receiverId": "tsHF6_D5oQ",
+      "senderId": "t45AiwidW",
+      "privacyLevel": "public",
+      "status": "complete",
+      "createdAt": "2021-09-07T10:13:39.707Z",
+      "modifiedAt": "2021-09-07T10:13:39.707Z"
+    },
+    {
+      "id": "7iO7W-7Or",
+      "uuid": "98a445e3-c349-47b7-ada1-464a959c957b",
+      "amount": 5000,
+      "description": "Food",
+      "receiverId": "tsHF6_D5oQ",
+      "senderId": "t45AiwidW",
+      "privacyLevel": "public",
+      "status": "complete",
+      "createdAt": "2021-09-07T10:29:49.377Z",
+      "modifiedAt": "2021-09-07T10:29:49.377Z"
+    },
+    {
+      "id": "4rk3xQDRu",
+      "uuid": "8ca8b91c-d534-4e5e-8de1-6d11fcb64cbb",
+      "amount": 500,
+      "description": "hi",
+      "receiverId": "bDjUb4ir5O",
+      "senderId": "t45AiwidW",
+      "privacyLevel": "public",
+      "status": "complete",
+      "createdAt": "2021-09-07T10:30:38.839Z",
+      "modifiedAt": "2021-09-07T10:30:38.839Z"
+    },
+    {
+      "id": "LWidF49Ci",
+      "uuid": "03d1ca0f-9b05-45f0-9569-45800816ae5c",
+      "amount": 5000,
+      "description": "Food",
+      "receiverId": "tsHF6_D5oQ",
+      "senderId": "t45AiwidW",
+      "privacyLevel": "public",
+      "status": "complete",
+      "createdAt": "2021-09-07T10:32:20.141Z",
+      "modifiedAt": "2021-09-07T10:32:20.141Z"
+    },
+    {
+      "id": "ffhh9LRU2",
+      "uuid": "b00a500f-f529-43fb-a311-48ccafab78e3",
+      "amount": 5000,
+      "description": "Food",
+      "receiverId": "tsHF6_D5oQ",
+      "senderId": "t45AiwidW",
+      "privacyLevel": "public",
+      "status": "complete",
+      "createdAt": "2021-09-07T10:32:27.432Z",
+      "modifiedAt": "2021-09-07T10:32:27.432Z"
+    },
+    {
+      "id": "q1ZzQygG7",
+      "uuid": "fea2a2e3-d519-4e99-b7b5-678d2194398a",
+      "amount": 5000,
+      "description": "Food",
+      "receiverId": "tsHF6_D5oQ",
+      "senderId": "t45AiwidW",
+      "privacyLevel": "public",
+      "status": "complete",
+      "createdAt": "2021-09-07T10:33:09.295Z",
+      "modifiedAt": "2021-09-07T10:33:09.295Z"
+    },
+    {
+      "id": "Ex9NpiO5b",
+      "uuid": "2480d31a-882b-4a9e-85ec-67307d0ee514",
+      "amount": 5000,
+      "description": "Food",
+      "receiverId": "tsHF6_D5oQ",
+      "senderId": "t45AiwidW",
+      "privacyLevel": "public",
+      "status": "complete",
+      "createdAt": "2021-09-07T10:39:19.351Z",
+      "modifiedAt": "2021-09-07T10:39:19.351Z"
+    },
+    {
+      "id": "cujRocMPG",
+      "uuid": "3d1b6478-5bc8-499c-a26a-415219d75332",
+      "amount": 5000,
+      "description": "Food",
+      "receiverId": "tsHF6_D5oQ",
+      "senderId": "t45AiwidW",
+      "privacyLevel": "public",
+      "status": "complete",
+      "createdAt": "2021-09-07T10:42:27.149Z",
+      "modifiedAt": "2021-09-07T10:42:27.149Z"
+    },
+    {
+      "id": "8lZLckkMh",
+      "uuid": "42923c54-d25f-416d-a239-e4faca20eb63",
+      "amount": 5000,
+      "description": "Food",
+      "receiverId": "tsHF6_D5oQ",
+      "senderId": "t45AiwidW",
+      "privacyLevel": "public",
+      "status": "complete",
+      "createdAt": "2021-09-07T10:53:31.144Z",
+      "modifiedAt": "2021-09-07T10:53:31.144Z"
+    },
+    {
+      "id": "S1yAnj-fD",
+      "uuid": "182d160a-f1b4-4c45-8a14-bc840a8307f5",
+      "amount": 5000,
+      "description": "Food",
+      "receiverId": "tsHF6_D5oQ",
+      "senderId": "t45AiwidW",
+      "privacyLevel": "public",
+      "status": "complete",
+      "createdAt": "2021-09-07T10:55:43.768Z",
+      "modifiedAt": "2021-09-07T10:55:43.768Z"
+    },
+    {
+      "id": "XfXB8bqPO",
+      "uuid": "12384d95-b346-4936-b1da-761b9c6eb2a3",
+      "amount": 5000,
+      "description": "Food",
+      "receiverId": "tsHF6_D5oQ",
+      "senderId": "t45AiwidW",
+      "privacyLevel": "public",
+      "status": "complete",
+      "createdAt": "2021-09-07T10:56:50.837Z",
+      "modifiedAt": "2021-09-07T10:56:50.837Z"
+    },
+    {
+      "id": "EqMmq7F-8",
+      "uuid": "e3433722-505b-427a-823c-86078799f862",
+      "amount": 5000,
+      "description": "Food",
+      "receiverId": "tsHF6_D5oQ",
+      "senderId": "t45AiwidW",
+      "privacyLevel": "public",
+      "status": "complete",
+      "createdAt": "2021-09-07T10:58:00.825Z",
+      "modifiedAt": "2021-09-07T10:58:00.825Z"
     }
   ],
   "likes": [
@@ -10431,6 +10587,136 @@
       "isRead": false,
       "createdAt": "2019-10-19T20:50:49.292Z",
       "modifiedAt": "2020-05-21T21:00:50.192Z"
+    },
+    {
+      "id": "8IXdyFHpxb",
+      "uuid": "7560b88b-1330-4e42-8654-fbd5e2af995b",
+      "userId": "tsHF6_D5oQ",
+      "transactionId": "kn0tCI88w",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2021-09-07T10:12:44.809Z",
+      "modifiedAt": "2021-09-07T10:12:44.809Z"
+    },
+    {
+      "id": "8L5Xqd5k__",
+      "uuid": "b4c6c9dc-30d6-486a-9f02-97579435dd2f",
+      "userId": "tsHF6_D5oQ",
+      "transactionId": "26jUEzr8T",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2021-09-07T10:13:39.715Z",
+      "modifiedAt": "2021-09-07T10:13:39.715Z"
+    },
+    {
+      "id": "5xfxKvUW2l",
+      "uuid": "bf890f0a-e6ff-4480-ab5d-6f390c743f43",
+      "userId": "tsHF6_D5oQ",
+      "transactionId": "7iO7W-7Or",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2021-09-07T10:29:49.385Z",
+      "modifiedAt": "2021-09-07T10:29:49.385Z"
+    },
+    {
+      "id": "aEDCJ_o67y",
+      "uuid": "20cb00e5-cf41-4788-8a57-f76a887231e9",
+      "userId": "bDjUb4ir5O",
+      "transactionId": "4rk3xQDRu",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2021-09-07T10:30:38.850Z",
+      "modifiedAt": "2021-09-07T10:30:38.850Z"
+    },
+    {
+      "id": "bp_RIQFN82",
+      "uuid": "395360b0-6330-486a-a114-0e5d7a86b54a",
+      "userId": "tsHF6_D5oQ",
+      "transactionId": "LWidF49Ci",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2021-09-07T10:32:20.151Z",
+      "modifiedAt": "2021-09-07T10:32:20.151Z"
+    },
+    {
+      "id": "Y_Jsxk0vUc",
+      "uuid": "66cf9316-36bc-4c9c-a9f7-d4bf5675b66d",
+      "userId": "tsHF6_D5oQ",
+      "transactionId": "ffhh9LRU2",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2021-09-07T10:32:27.441Z",
+      "modifiedAt": "2021-09-07T10:32:27.441Z"
+    },
+    {
+      "id": "1WVnrvUsl_",
+      "uuid": "b0e85aaa-9a96-4cda-aaa6-6d08f1001d54",
+      "userId": "tsHF6_D5oQ",
+      "transactionId": "q1ZzQygG7",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2021-09-07T10:33:09.304Z",
+      "modifiedAt": "2021-09-07T10:33:09.304Z"
+    },
+    {
+      "id": "ir7he_ujWT",
+      "uuid": "02e7315c-8ea6-4a7f-8f62-ee5f01a3e04b",
+      "userId": "tsHF6_D5oQ",
+      "transactionId": "Ex9NpiO5b",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2021-09-07T10:39:19.360Z",
+      "modifiedAt": "2021-09-07T10:39:19.360Z"
+    },
+    {
+      "id": "Xh7j1YoBIA",
+      "uuid": "aebf59c5-e0b3-464e-875d-f2bfc052d07d",
+      "userId": "tsHF6_D5oQ",
+      "transactionId": "cujRocMPG",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2021-09-07T10:42:27.159Z",
+      "modifiedAt": "2021-09-07T10:42:27.159Z"
+    },
+    {
+      "id": "wsVrIftXBu",
+      "uuid": "23745113-3529-4c78-80c7-7694a52e5318",
+      "userId": "tsHF6_D5oQ",
+      "transactionId": "8lZLckkMh",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2021-09-07T10:53:31.156Z",
+      "modifiedAt": "2021-09-07T10:53:31.156Z"
+    },
+    {
+      "id": "5c6AkAmKJ3",
+      "uuid": "1700a377-8408-4dc7-846f-7186fc197607",
+      "userId": "tsHF6_D5oQ",
+      "transactionId": "S1yAnj-fD",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2021-09-07T10:55:43.778Z",
+      "modifiedAt": "2021-09-07T10:55:43.778Z"
+    },
+    {
+      "id": "VVwXOhApQR",
+      "uuid": "2598e572-3ca3-4296-8621-7001f9bd959c",
+      "userId": "tsHF6_D5oQ",
+      "transactionId": "XfXB8bqPO",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2021-09-07T10:56:50.848Z",
+      "modifiedAt": "2021-09-07T10:56:50.848Z"
+    },
+    {
+      "id": "Qbz40pLh1-",
+      "uuid": "514e0757-3d7c-4999-98a1-01dd6ef2abda",
+      "userId": "tsHF6_D5oQ",
+      "transactionId": "EqMmq7F-8",
+      "status": "received",
+      "isRead": false,
+      "createdAt": "2021-09-07T10:58:00.836Z",
+      "modifiedAt": "2021-09-07T10:58:00.836Z"
     }
   ],
   "banktransfers": [
